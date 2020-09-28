@@ -1,12 +1,10 @@
 main:
 
   - title: "CIMA"
-    url: https://docs.google.com/spreadsheets/d/1AxCrxVocmG4ZwbviFX6-lAwkgqE_VBan3VI9oAm_C6I/edit#gid=752317207
+    url: https://docs.google.com/spreadsheets/d/1Iin4nwewgct_ArOw7d89pFosZT7m-0hqtlTgogBgJz0/edit#gid=1709616365
   - title: "LIC"
     url: /lic/
-  - title: "Payson"
-    url: /payson/
   - title: "Other Schedule"
-    url: /phone
+    url: https://docs.google.com/spreadsheets/d/1PuaKDGok2fGIUxqseiuaw6ncvSCeqHiZeaPI0lOIKo8/edit?usp=sharing
   - title: "ACR"
     url: /ACR.html
